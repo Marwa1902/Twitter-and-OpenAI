@@ -23,7 +23,7 @@ Our objectives are twofold:
 2. Evaluate Accuracy of User-Mentioned Location vs. Topic Location
       Investigate the accuracy of OpenAI in capturing the alignment between the user’s claimed location and the location discussed in the tweet (topic location -the location the user is discussing about but is not residing in). This comparison delves into the accuracy of OpenAI in capturing the alignment between the user's claimed location and the location discussed in the tweet. To add, this use case if for the non-geotagged location.
 
-                                  ![image](https://github.com/Marwa1902/Twitter-and-OpenAI/assets/89301770/1ef44563-25fc-4884-a8e2-3f8605bbc2db)
+   ![image](https://github.com/Marwa1902/Twitter-and-OpenAI/assets/89301770/1ef44563-25fc-4884-a8e2-3f8605bbc2db)
 
 The reason why we evaluate the findings based on two categories is because sometimes we have no geotagged location available, maybe due to “no location shared” option from the user itself. So, we ask OpenAI to look for a user mentioned location that we can use to compare it with the topic location and extract it for comparison.
 
@@ -35,6 +35,6 @@ The set of comparison were put into three categories:
 
 Our analysis focused on utilizing OpenAI [13] to extract location-related information from tweets and subsequently comparing this information with geotagged location or topic location to evaluate the location the tweets containing the location based on the classification.
 
-                               ![image](https://github.com/Marwa1902/Twitter-and-OpenAI/assets/89301770/bbebbb39-50a5-4b6a-9f13-6f82b743a0be)
+   ![image](https://github.com/Marwa1902/Twitter-and-OpenAI/assets/89301770/bbebbb39-50a5-4b6a-9f13-6f82b743a0be)
 
 
