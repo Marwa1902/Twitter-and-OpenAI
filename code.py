@@ -6,7 +6,6 @@ import textwrap
 
 # openAI API key
 openai.api_key = 'API KEY'
-  # the key can be obtained from OpenAi's website, it is a profitable project so you have to pay for the key
 
 # set up geopy geolocator
 geolocator = Nominatim(user_agent="tweet_location_comparison")
