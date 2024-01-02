@@ -38,3 +38,6 @@ Our analysis focused on utilizing OpenAI [13] to extract location-related inform
    ![image](https://github.com/Marwa1902/Twitter-and-OpenAI/assets/89301770/f0a55713-a197-4daa-8e55-ad02f7343a63)
 
 
+The project was done by: 
+Marwa Abdul Rahim 
+Muhammad Abdl Rahim
